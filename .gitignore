@@ -1,0 +1,12 @@
+# 忽略 VS Code 設定
+.vscode/
+# 忽略編譯產生的 bin 目錄
+Unit1/bin/
+Unit2/bin/
+Unit3/bin/
+Unit4/bin/
+Unit5/bin/
+# macOS 系統檔案
+.DS_Store
+# Windows 系統檔案
+Thumbs.db
